@@ -81,14 +81,13 @@ Download example data from [GATAN](https://www.gatan.com/4d-stem-strain-mapping)
 
 ## Cite
 ```
-@misc{genc2025neuralobjectdetection4d,
-      title={Neural Object Detection for 4D STEM: High-Throughput Sub-Pixel Electron Diffraction Pattern Recognition}, 
-      author={Arda Genc and Ravit Silverstein},
-      year={2025},
-      eprint={2506.04477},
-      archivePrefix={arXiv},
-      primaryClass={cond-mat.mtrl-sci},
-      url={https://arxiv.org/abs/2506.04477}, 
+@InProceedings{Genc_2025_ICCV,
+    author    = {Genc, Arda and Silverstein, Ravit},
+    title     = {Neural Object Detection for 4D-STEM: High-Throughput Sub-Pixel Electron Diffraction Pattern Recognition},
+    booktitle = {Proceedings of the IEEE/CVF International Conference on Computer Vision (ICCV) Workshops},
+    month     = {October},
+    year      = {2025},
+    pages     = {3565-3575}
 }
 
 ```
