@@ -68,6 +68,14 @@ This will install all required dependencies, including:
 - **Ultralytics** (for YOLOv8)
 - **rosettasciio[all]** (for TEM file support)
 
+<details>
+  <summary>📄 Request Access to nanoDetect (.exe)</summary>
+
+  Please fill out this form to receive access:
+
+  👉 [Access Request Form](https://your-form-link-here)
+
+</details>
 
 
 ## Demo
